@@ -1,13 +1,24 @@
 # 🕹️ Arduino Uno Simulator (Web-Based)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Tech](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
-[![Field](https://img.shields.io/badge/Focus-Electronics%20%26%20Communication-blue)](#)
+<div align="center">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
+  <img src="https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JS">
+  <img src="https://img.shields.io/badge/Focus-Electronics%20%26%20Communication-blue" alt="ECE">
+  
+  <br/>
+  <br/>
+
+  <a href="https://arduino-uno-web-based-simulator.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-🚀-00FFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+</div>
+
+<br/>
 
 ## 📌 Overview
 The **Arduino Uno Simulator** is a browser-based interactive platform that allows users to design, wire, and simulate Arduino circuits without physical hardware. It is specifically built for beginners and educators to master Arduino fundamentals through real-time visual interaction.
 
-
+---
 
 ## 🚀 Key Features
 * **🧩 Drag-and-Drop Interface:** Intuitive workspace for placing components.
@@ -48,4 +59,4 @@ The **Arduino Uno Simulator** is a browser-based interactive platform that allow
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙌 Author
-**Priyam Prakash** *B.Tech – Electronics and Communication Engineering* 
+**Priyam Prakash** *B.Tech – Electronics and Communication Engineering*
