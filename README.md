@@ -15,7 +15,7 @@
 
 <br/>
 
-## 📌 Overview:-
+## 📌 Overview:--
 The **Arduino Uno Simulator** is a browser-based interactive platform that allows users to design, wire, and simulate Arduino circuits without physical hardware. It is specifically built for beginners and educators to master Arduino fundamentals through real-time visual interaction.
 
 ---
